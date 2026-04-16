@@ -1,0 +1,972 @@
+[
+    {
+        "start": 0.0,
+        "end": 3.8000000000000003,
+        "text": " Learning the concept of Inline and Block Elements in HTML is very important."
+    },
+    {
+        "start": 3.8000000000000003,
+        "end": 6.6000000000000005,
+        "text": " Inline Elements are those which are required to take the width of the screen."
+    },
+    {
+        "start": 6.6000000000000005,
+        "end": 10.0,
+        "text": " And Block Elements are those which take the entire width of the screen."
+    },
+    {
+        "start": 10.0,
+        "end": 13.4,
+        "text": " It is also called Display Property which can be set through CSS."
+    },
+    {
+        "start": 13.4,
+        "end": 16.8,
+        "text": " If you are enjoying this video so far, then do like this video."
+    },
+    {
+        "start": 16.8,
+        "end": 20.1,
+        "text": " So let's go to the computer screen and look closely at Inline and Block Elements."
+    },
+    {
+        "start": 20.1,
+        "end": 23.3,
+        "text": " Through some very good examples, let's roll the intro."
+    },
+    {
+        "start": 31.0,
+        "end": 35.0,
+        "text": " So guys, we are done with Inline and Block Elements."
+    },
+    {
+        "start": 35.0,
+        "end": 39.0,
+        "text": " If you haven't accessed the playlist and haven't accessed the code, then access both."
+    },
+    {
+        "start": 39.0,
+        "end": 45.0,
+        "text": " Because as soon as the videos are being made, the code and our video are being added to the playlist."
+    },
+    {
+        "start": 45.0,
+        "end": 50.0,
+        "text": " Now I will quickly make a folder called Video 8."
+    },
+    {
+        "start": 50.0,
+        "end": 54.0,
+        "text": " I have already added 7 videos here by doing a new folder."
+    },
+    {
+        "start": 54.0,
+        "end": 58.0,
+        "text": " I will make a video 8 here and open it in the VS Code."
+    },
+    {
+        "start": 59.0,
+        "end": 64.0,
+        "text": " After opening the VS Code, I will tell you about the index and block elements by closing the index."
+    },
+    {
+        "start": 64.0,
+        "end": 70.0,
+        "text": " So I entered the exclamation mark and I could type this but I will not do it because I can type it."
+    },
+    {
+        "start": 70.0,
+        "end": 74.0,
+        "text": " So I will write here Inline and Block Elements."
+    },
+    {
+        "start": 74.0,
+        "end": 78.0,
+        "text": " I had told you a little about this but I will add more details to it."
+    },
+    {
+        "start": 78.0,
+        "end": 82.0,
+        "text": " What are Inline Elements and why I want to use them."
+    },
+    {
+        "start": 82.0,
+        "end": 86.0,
+        "text": " So see, Inline Elements are those elements which take only the width of the screen."
+    },
+    {
+        "start": 86.0,
+        "end": 90.0,
+        "text": " They take only the width of the screen."
+    },
+    {
+        "start": 90.0,
+        "end": 94.0,
+        "text": " They say we need the entire width."
+    },
+    {
+        "start": 94.0,
+        "end": 98.0,
+        "text": " Some people just sit with the screen and they are the only ones who have the width of the screen."
+    },
+    {
+        "start": 98.0,
+        "end": 102.0,
+        "text": " To explain the difference, I will cheat a little."
+    },
+    {
+        "start": 102.0,
+        "end": 106.0,
+        "text": " The cheating is that I will add CSS."
+    },
+    {
+        "start": 106.0,
+        "end": 110.0,
+        "text": " I am not teaching you CSS, why are you adding CSS?"
+    },
+    {
+        "start": 110.0,
+        "end": 114.0,
+        "text": " I will just write here P and enter."
+    },
+    {
+        "start": 114.0,
+        "end": 118.0,
+        "text": " I will write here Let Us Say Hey I am a Para."
+    },
+    {
+        "start": 118.0,
+        "end": 122.0,
+        "text": " I will say P to give background color."
+    },
+    {
+        "start": 122.0,
+        "end": 126.0,
+        "text": " Let Us say blue."
+    },
+    {
+        "start": 126.0,
+        "end": 130.0,
+        "text": " I will give you a good color choice."
+    },
+    {
+        "start": 130.0,
+        "end": 134.0,
+        "text": " Now you can see here I have given you a color."
+    },
+    {
+        "start": 134.0,
+        "end": 138.0,
+        "text": " I will also add an anchor tag."
+    },
+    {
+        "start": 138.0,
+        "end": 142.0,
+        "text": " I will have to add sttps."
+    },
+    {
+        "start": 142.0,
+        "end": 146.0,
+        "text": " I will write here Google."
+    },
+    {
+        "start": 146.0,
+        "end": 150.0,
+        "text": " I will give the color background."
+    },
+    {
+        "start": 150.0,
+        "end": 154.0,
+        "text": " I will give the color background red."
+    },
+    {
+        "start": 154.0,
+        "end": 158.0,
+        "text": " I can choose any color in the spectrum."
+    },
+    {
+        "start": 158.0,
+        "end": 162.0,
+        "text": " If you already know about Ninja Tagging, then comment."
+    },
+    {
+        "start": 162.0,
+        "end": 166.0,
+        "text": " I will already go to sleep."
+    },
+    {
+        "start": 166.0,
+        "end": 170.0,
+        "text": " You can see here I have given the color background."
+    },
+    {
+        "start": 170.0,
+        "end": 174.0,
+        "text": " I have changed it to red."
+    },
+    {
+        "start": 174.0,
+        "end": 178.0,
+        "text": " I have made it red orange."
+    },
+    {
+        "start": 178.0,
+        "end": 182.0,
+        "text": " Now you can see the difference."
+    },
+    {
+        "start": 182.0,
+        "end": 186.0,
+        "text": " The background color is the width of the screen."
+    },
+    {
+        "start": 186.0,
+        "end": 190.0,
+        "text": " But the only element is the width of the screen."
+    },
+    {
+        "start": 190.0,
+        "end": 194.0,
+        "text": " This is the paragraph block element."
+    },
+    {
+        "start": 194.0,
+        "end": 198.0,
+        "text": " The only element is the width of the screen."
+    },
+    {
+        "start": 198.0,
+        "end": 202.0,
+        "text": " The next content is the width of the screen."
+    },
+    {
+        "start": 202.0,
+        "end": 206.0,
+        "text": " If I talk about dev,"
+    },
+    {
+        "start": 206.0,
+        "end": 210.0,
+        "text": " it is a block element."
+    },
+    {
+        "start": 210.0,
+        "end": 214.0,
+        "text": " It is a span element."
+    },
+    {
+        "start": 214.0,
+        "end": 218.0,
+        "text": " It is an inline element."
+    },
+    {
+        "start": 218.0,
+        "end": 222.0,
+        "text": " If I add an anchor tag."
+    },
+    {
+        "start": 222.0,
+        "end": 226.0,
+        "text": " Yes, he is inline."
+    },
+    {
+        "start": 226.0,
+        "end": 230.0,
+        "text": " If I zoom out,"
+    },
+    {
+        "start": 230.0,
+        "end": 234.0,
+        "text": " I will not add any space."
+    },
+    {
+        "start": 234.0,
+        "end": 238.0,
+        "text": " Because HTML is more than one space."
+    },
+    {
+        "start": 238.0,
+        "end": 242.0,
+        "text": " If you want to add spaces,"
+    },
+    {
+        "start": 242.0,
+        "end": 246.0,
+        "text": " you can write amper and nbsp."
+    },
+    {
+        "start": 246.0,
+        "end": 250.0,
+        "text": " I have written here paragraph."
+    },
+    {
+        "start": 250.0,
+        "end": 254.0,
+        "text": " The next content is the width of the screen."
+    },
+    {
+        "start": 254.0,
+        "end": 258.0,
+        "text": " I have written this."
+    },
+    {
+        "start": 258.0,
+        "end": 262.0,
+        "text": " The next content is the width of the screen."
+    },
+    {
+        "start": 262.0,
+        "end": 266.0,
+        "text": " It will not come here."
+    },
+    {
+        "start": 266.0,
+        "end": 270.0,
+        "text": " It will not come in this line."
+    },
+    {
+        "start": 270.0,
+        "end": 274.0,
+        "text": " Google is also taking the width."
+    },
+    {
+        "start": 274.0,
+        "end": 278.0,
+        "text": " If I add a background color, it will be visible."
+    },
+    {
+        "start": 278.0,
+        "end": 282.0,
+        "text": " I will give the background color."
+    },
+    {
+        "start": 282.0,
+        "end": 286.0,
+        "text": " This is the width of the screen."
+    },
+    {
+        "start": 286.0,
+        "end": 290.0,
+        "text": " I can add a span and anchor tag in the same line."
+    },
+    {
+        "start": 290.0,
+        "end": 294.0,
+        "text": " Because it is an inline element."
+    },
+    {
+        "start": 294.0,
+        "end": 298.0,
+        "text": " It is important to add more elements in the same width."
+    },
+    {
+        "start": 298.0,
+        "end": 302.0,
+        "text": " As you saw, this span gave an opportunity to come in the anchor tag."
+    },
+    {
+        "start": 302.0,
+        "end": 306.0,
+        "text": " Will the anchor tag be inline?"
+    },
+    {
+        "start": 306.0,
+        "end": 310.0,
+        "text": " Will the paragraph tag be blocked?"
+    },
+    {
+        "start": 310.0,
+        "end": 314.0,
+        "text": " You can set a particular element."
+    },
+    {
+        "start": 314.0,
+        "end": 318.0,
+        "text": " You can set a display property."
+    },
+    {
+        "start": 318.0,
+        "end": 322.0,
+        "text": " It is not necessary that it will be inline."
+    },
+    {
+        "start": 322.0,
+        "end": 326.0,
+        "text": " It will be inline."
+    },
+    {
+        "start": 326.0,
+        "end": 330.0,
+        "text": " I want to pinpoint one thing."
+    },
+    {
+        "start": 330.0,
+        "end": 334.0,
+        "text": " The video from the video 7."
+    },
+    {
+        "start": 334.0,
+        "end": 338.0,
+        "text": " I have put it in the video 6 folder."
+    },
+    {
+        "start": 338.0,
+        "end": 342.0,
+        "text": " It is in the video 7."
+    },
+    {
+        "start": 342.0,
+        "end": 346.0,
+        "text": " I will quickly structure it."
+    },
+    {
+        "start": 346.0,
+        "end": 350.0,
+        "text": " I hope you are getting a lot of learnings."
+    },
+    {
+        "start": 350.0,
+        "end": 354.0,
+        "text": " I will fix it."
+    },
+    {
+        "start": 354.0,
+        "end": 358.0,
+        "text": " You will get the folder of the source code."
+    },
+    {
+        "start": 358.0,
+        "end": 362.0,
+        "text": " Go to codewithary.com and download the codes."
+    },
+    {
+        "start": 362.0,
+        "end": 366.0,
+        "text": " It will be a complementary source for you."
+    },
+    {
+        "start": 366.0,
+        "end": 370.0,
+        "text": " Don't worry about it."
+    },
+    {
+        "start": 370.0,
+        "end": 374.0,
+        "text": " What are the elements inline and block?"
+    },
+    {
+        "start": 374.0,
+        "end": 378.0,
+        "text": " You will know how to know the div and span inline."
+    },
+    {
+        "start": 378.0,
+        "end": 382.0,
+        "text": " I have made a list of inline and block elements."
+    },
+    {
+        "start": 382.0,
+        "end": 386.0,
+        "text": " This list is used in most commonly used elements."
+    },
+    {
+        "start": 386.0,
+        "end": 390.0,
+        "text": " It is used in most commonly used elements."
+    },
+    {
+        "start": 390.0,
+        "end": 394.0,
+        "text": " You will get elements that are not used."
+    },
+    {
+        "start": 394.0,
+        "end": 398.0,
+        "text": " You may not know about it."
+    },
+    {
+        "start": 398.0,
+        "end": 402.0,
+        "text": " You can also learn about it."
+    },
+    {
+        "start": 402.0,
+        "end": 406.0,
+        "text": " There are many elements that are not used."
+    },
+    {
+        "start": 406.0,
+        "end": 410.0,
+        "text": " But you will see them in most commonly used elements."
+    },
+    {
+        "start": 410.0,
+        "end": 414.0,
+        "text": " I have made a list of inline elements."
+    },
+    {
+        "start": 414.0,
+        "end": 418.0,
+        "text": " You can refer this comprehensive list."
+    },
+    {
+        "start": 418.0,
+        "end": 422.0,
+        "text": " You can also refer this file."
+    },
+    {
+        "start": 422.0,
+        "end": 426.0,
+        "text": " You can also refer this part."
+    },
+    {
+        "start": 426.0,
+        "end": 430.0,
+        "text": " If you do a right click, you will get a document format."
+    },
+    {
+        "start": 430.0,
+        "end": 434.0,
+        "text": " You can write the code as per your needs."
+    },
+    {
+        "start": 434.0,
+        "end": 438.0,
+        "text": " When your grandson gets a good code,"
+    },
+    {
+        "start": 438.0,
+        "end": 442.0,
+        "text": " he will tell him to write a good one."
+    },
+    {
+        "start": 442.0,
+        "end": 446.0,
+        "text": " Grandpa would write a good code."
+    },
+    {
+        "start": 446.0,
+        "end": 450.0,
+        "text": " He will tell him to write a good code."
+    },
+    {
+        "start": 450.0,
+        "end": 454.0,
+        "text": " So that your grandson can hear you very well."
+    },
+    {
+        "start": 454.0,
+        "end": 458.0,
+        "text": " Now, I want to give you a quiz through HTML comments."
+    },
+    {
+        "start": 458.0,
+        "end": 463.0,
+        "text": " And this quiz is without using BR tag, write a vertical or a line form, asking for name city."
+    },
+    {
+        "start": 463.0,
+        "end": 467.0,
+        "text": " And here I have added one more thing, I will show you, I will turn on the word wrap."
+    },
+    {
+        "start": 467.0,
+        "end": 469.0,
+        "text": " Now look here, name city and pin code of a user."
+    },
+    {
+        "start": 469.0,
+        "end": 472.0,
+        "text": " So, there is a form to write, which we read in the last video about form."
+    },
+    {
+        "start": 472.0,
+        "end": 477.0,
+        "text": " You have to write this form, how you will make it, you should know."
+    },
+    {
+        "start": 477.0,
+        "end": 481.0,
+        "text": " Along with that, I want everyone to answer this quiz in the comment section."
+    },
+    {
+        "start": 481.0,
+        "end": 483.0,
+        "text": " Everyone, this is our first quiz."
+    },
+    {
+        "start": 483.0,
+        "end": 486.0,
+        "text": " So, I want you to make a two-way interaction."
+    },
+    {
+        "start": 486.0,
+        "end": 489.0,
+        "text": " Do write your code in the comment section."
+    },
+    {
+        "start": 489.0,
+        "end": 492.0,
+        "text": " And tell me which element you used."
+    },
+    {
+        "start": 492.0,
+        "end": 495.0,
+        "text": " Which element of the online element, if yes, which element of the online element,"
+    },
+    {
+        "start": 495.0,
+        "end": 497.0,
+        "text": " which element of the blog element, if yes, which element of the blog element."
+    },
+    {
+        "start": 497.0,
+        "end": 499.0,
+        "text": " You can tell me your explanation in the comment section."
+    },
+    {
+        "start": 499.0,
+        "end": 504.0,
+        "text": " In the upcoming videos, we will also see how you can set inline flex,"
+    },
+    {
+        "start": 504.0,
+        "end": 507.0,
+        "text": " inline block, such a display property."
+    },
+    {
+        "start": 507.0,
+        "end": 508.0,
+        "text": " And what the difference is in them."
+    },
+    {
+        "start": 508.0,
+        "end": 510.0,
+        "text": " So, we will see all these things in the upcoming videos."
+    },
+    {
+        "start": 510.0,
+        "end": 513.0,
+        "text": " I want to tell you that, if you are following this course,"
+    },
+    {
+        "start": 513.0,
+        "end": 516.0,
+        "text": " then you are going to be a great web developer."
+    },
+    {
+        "start": 516.0,
+        "end": 518.0,
+        "text": " And you all don't think that the video is long,"
+    },
+    {
+        "start": 518.0,
+        "end": 520.0,
+        "text": " and our success is going on for a long time."
+    },
+    {
+        "start": 520.0,
+        "end": 521.0,
+        "text": " And all that."
+    },
+    {
+        "start": 521.0,
+        "end": 523.0,
+        "text": " I want to be beginner friendly with the courses,"
+    },
+    {
+        "start": 523.0,
+        "end": 526.0,
+        "text": " whatever I am making, and along with that, I want to tell you all this."
+    },
+    {
+        "start": 526.0,
+        "end": 528.0,
+        "text": " People will tell you in life, that you are doing this,"
+    },
+    {
+        "start": 528.0,
+        "end": 531.0,
+        "text": " we are doing fun, you are studying, you are doing this, you are doing this."
+    },
+    {
+        "start": 531.0,
+        "end": 534.0,
+        "text": " You know, what you will never be called by people,"
+    },
+    {
+        "start": 534.0,
+        "end": 536.0,
+        "text": " is that you are blessed."
+    },
+    {
+        "start": 536.0,
+        "end": 539.0,
+        "text": " Nobody will tell you that you got the Sigma Web Development course."
+    },
+    {
+        "start": 539.0,
+        "end": 542.0,
+        "text": " You are living at a time where you get such a good comprehensive course,"
+    },
+    {
+        "start": 542.0,
+        "end": 543.0,
+        "text": " in Hindi and Hindi."
+    },
+    {
+        "start": 543.0,
+        "end": 545.0,
+        "text": " Nobody will tell you that you are blessed."
+    },
+    {
+        "start": 545.0,
+        "end": 547.0,
+        "text": " People will tell you that they are going to watch a movie,"
+    },
+    {
+        "start": 547.0,
+        "end": 549.0,
+        "text": " they are going to watch this, you are studying,"
+    },
+    {
+        "start": 549.0,
+        "end": 551.0,
+        "text": " what is it, you mean you are so boring."
+    },
+    {
+        "start": 551.0,
+        "end": 553.0,
+        "text": " People will tell you this, but nobody will tell you that,"
+    },
+    {
+        "start": 553.0,
+        "end": 555.0,
+        "text": " you are blessed to find this course,"
+    },
+    {
+        "start": 555.0,
+        "end": 557.0,
+        "text": " and you are blessed that you are watching it,"
+    },
+    {
+        "start": 557.0,
+        "end": 559.0,
+        "text": " you are completely blessed that you are not distracted."
+    },
+    {
+        "start": 559.0,
+        "end": 561.0,
+        "text": " And in the coming time, when you look back,"
+    },
+    {
+        "start": 561.0,
+        "end": 564.0,
+        "text": " you will realize that you are blessed."
+    },
+    {
+        "start": 564.0,
+        "end": 566.0,
+        "text": " I myself say that I am blessed,"
+    },
+    {
+        "start": 566.0,
+        "end": 568.0,
+        "text": " I studied at the time of IITJ,"
+    },
+    {
+        "start": 568.0,
+        "end": 570.0,
+        "text": " I took out IITJ, so much happened,"
+    },
+    {
+        "start": 570.0,
+        "end": 571.0,
+        "text": " everything changed."
+    },
+    {
+        "start": 571.0,
+        "end": 573.0,
+        "text": " So, you will not be told this."
+    },
+    {
+        "start": 573.0,
+        "end": 576.0,
+        "text": " Nobody will tell you that it is worth the sacrifice that you are doing."
+    },
+    {
+        "start": 576.0,
+        "end": 577.0,
+        "text": " I am telling you that,"
+    },
+    {
+        "start": 577.0,
+        "end": 579.0,
+        "text": " all the people who have got success in life,"
+    },
+    {
+        "start": 579.0,
+        "end": 580.0,
+        "text": " they have sacrificed."
+    },
+    {
+        "start": 580.0,
+        "end": 582.0,
+        "text": " Take any name,"
+    },
+    {
+        "start": 582.0,
+        "end": 583.0,
+        "text": " have sacrificed somewhere,"
+    },
+    {
+        "start": 583.0,
+        "end": 584.0,
+        "text": " have made a big sacrifice,"
+    },
+    {
+        "start": 584.0,
+        "end": 586.0,
+        "text": " and people will never tell you that,"
+    },
+    {
+        "start": 586.0,
+        "end": 588.0,
+        "text": " this sacrifice is worth it."
+    },
+    {
+        "start": 588.0,
+        "end": 590.0,
+        "text": " So, you guys keep working hard,"
+    },
+    {
+        "start": 590.0,
+        "end": 591.0,
+        "text": " you are going right."
+    },
+    {
+        "start": 591.0,
+        "end": 593.0,
+        "text": " Don't think that you are missing out on this,"
+    },
+    {
+        "start": 593.0,
+        "end": 594.0,
+        "text": " everything is worth it."
+    },
+    {
+        "start": 594.0,
+        "end": 596.0,
+        "text": " I wanted to get this advice,"
+    },
+    {
+        "start": 596.0,
+        "end": 598.0,
+        "text": " this note is Rs. 4, 5, 100,"
+    },
+    {
+        "start": 598.0,
+        "end": 600.0,
+        "text": " but it is okay, let's move forward."
+    },
+    {
+        "start": 600.0,
+        "end": 601.0,
+        "text": " I will do one thing,"
+    },
+    {
+        "start": 601.0,
+        "end": 603.0,
+        "text": " I will add a color to the span,"
+    },
+    {
+        "start": 603.0,
+        "end": 605.0,
+        "text": " I will write span here,"
+    },
+    {
+        "start": 605.0,
+        "end": 607.0,
+        "text": " and I will add background color here,"
+    },
+    {
+        "start": 607.0,
+        "end": 609.0,
+        "text": " I will add blue violet,"
+    },
+    {
+        "start": 609.0,
+        "end": 610.0,
+        "text": " I will reduce it a little,"
+    },
+    {
+        "start": 610.0,
+        "end": 611.0,
+        "text": " I will hover it,"
+    },
+    {
+        "start": 611.0,
+        "end": 612.0,
+        "text": " like this."
+    },
+    {
+        "start": 612.0,
+        "end": 614.0,
+        "text": " And now you will see here,"
+    },
+    {
+        "start": 614.0,
+        "end": 616.0,
+        "text": " it has highlighted it like this."
+    },
+    {
+        "start": 616.0,
+        "end": 617.0,
+        "text": " In this video,"
+    },
+    {
+        "start": 617.0,
+        "end": 618.0,
+        "text": " I hope you have understood,"
+    },
+    {
+        "start": 618.0,
+        "end": 619.0,
+        "text": " what is the difference between"
+    },
+    {
+        "start": 619.0,
+        "end": 620.0,
+        "text": " inline and block elements."
+    },
+    {
+        "start": 620.0,
+        "end": 621.0,
+        "text": " Like the video,"
+    },
+    {
+        "start": 621.0,
+        "end": 622.0,
+        "text": " share the playlist,"
+    },
+    {
+        "start": 622.0,
+        "end": 624.0,
+        "text": " please also like the code,"
+    },
+    {
+        "start": 624.0,
+        "end": 626.0,
+        "text": " thank you so much for watching this video,"
+    },
+    {
+        "start": 626.0,
+        "end": 629.0,
+        "text": " and I will see you next time."
+    },
+    {
+        "start": 646.0,
+        "end": 647.0,
+        "text": " ."
+    }
+]

@@ -1,0 +1,11 @@
+You're looking for the section in our Sigma web development course where we cover HTML. It's covered in a few videos.
+
+To be specific, the basic structure of an HTML website is explained in Video 3 at timestamp 340.72 seconds to 342.72 seconds, where the instructor talks about how the HTML document works. 
+
+In Video 2 at timestamp 915.2 seconds to 917.2 seconds, we see the syntax of HTML.
+
+Additionally, a detailed explanation of the features of HTML is covered in Video 4 from timestamp 353.1 seconds to 355.1 seconds.
+
+Lastly, some important concepts related to forms and input tags in HTML are mentioned briefly at the very beginning itself, around 162.7 seconds.
+
+You can go back and watch these videos to understand where and how much content is taught about HTML in our course.

@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+whisper/
+*.mp4
+*.mp3
+*.pkl
+*.joblib
