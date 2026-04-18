@@ -29,6 +29,7 @@ def inference(prompt):              #getting response from llm
         "model": "llama3.2",
         "prompt": prompt,
         "Stream": False
+        
     })
 
     response = r.json()
@@ -53,15 +54,47 @@ max_indx = similarities.argsort()[::-1][0:top_results]
 new_df = df.loc[max_indx]
 #print(new_df[["title","number","text"]])
 
-prompt = f'''I am teaching web development in my sigma web development course. Here are video subtitle chunks containing video title, video number,start time in second, end time in second, the text at that time:
+# First, format the seconds into minutes for a "Real World" feel
+def get_timestamp(seconds):
+    return f"{int(seconds // 60)}:{int(seconds % 60):02d}"
 
-{new_df[["title","number","start","end","text"]].to_json(orient="records")}    # orient(records) gives list of dictionaries
+# Create a clean text table for the AI
+context_text = ""
+for i, row in new_df.iterrows():
+    time_str = get_timestamp(row['start'])
+    context_text += f"- Video {row['number']} ({row['title']}) at {time_str}: {row['text']}\n"
 
--------------------------------
+prompt = f"""
+You are an AI Course Assistant for the Sigma Web Development Course.
 
-"{incoming_query}"
-User aksed this question related to video chunks,you have to answer in a human way(don't mention the above format, its just for you) where and how much content is taught where (in which video and at what timestamp) and the user to go to that particular video. If user ask unrelated question, tell him you can only answer questions related to the course.
-'''
+Use ONLY the course context below to answer.
+
+COURSE CONTEXT:
+{context_text}
+
+INSTRUCTIONS:
+1. Answer directly and naturally.
+2. Never say:
+- The user is asking
+- Based on the context
+- I found
+- According to the data
+3. Do not explain reasoning.
+4. Use only information from context.
+5. If topic exists, give:
+   - Video Number
+   - Video Title
+   - Timestamp
+   - One short helpful sentence
+6. Keep response under 70 words.
+7. If topic is missing, reply exactly:
+I couldn't find that topic in the current lessons.
+
+QUESTION:
+{incoming_query}
+
+ANSWER:
+"""
 
 response = inference(prompt)["response"]
 print(response)
